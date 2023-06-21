@@ -1,7 +1,6 @@
 import React from "react"
 
 export default function Start(props) {
-    //now lets see what props gets here 
     console.log(props)
     return (
             <div className="start-page">
@@ -11,10 +10,3 @@ export default function Start(props) {
             </div>
     )
 }
-
-// I know from there, I did it by myself there,
-// like this handleStart, when we click on this the quiz start will open
-
-//yes aboslutely
-//so then it will go to quiz section so shall we go to that main quiz section 
-//where all the magic happen? okay let's start it
