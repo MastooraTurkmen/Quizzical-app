@@ -8,6 +8,9 @@ dependencies:
   he:
     specifier: ^1.2.0
     version: 1.2.0
+  html-entities:
+    specifier: ^2.4.0
+    version: 2.4.0
   nanoid:
     specifier: ^5.0.1
     version: 5.0.1
@@ -1148,6 +1151,10 @@ packages:
   /he@1.2.0:
     resolution: {integrity: sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==}
     hasBin: true
+    dev: false
+
+  /html-entities@2.4.0:
+    resolution: {integrity: sha512-igBTJcNNNhvZFRtm8uA6xMY6xYleeDwn3PeBCkDz7tHttv4F2hsDI2aPgNERWzvRcNYHNT3ymRaQzllmXj4YsQ==}
     dev: false
 
   /ignore@5.2.4:
