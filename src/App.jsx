@@ -1,7 +1,6 @@
 import React from "react"
 import Start from "./components/Start"
 import Quiz from "./components/Quiz"
-import './App.css';
 
 export default function App() {
     const [quiz, setQuiz] = React.useState(false)
