@@ -152,3 +152,9 @@ button:focus {
 .dimmed {
   opacity: 0.5;
 }
+
+
+
+@media (min-width: 900px) {
+  
+}
