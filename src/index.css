@@ -155,6 +155,14 @@ button:focus {
 
 
 
-@media (min-width: 900px) {
-  
+@media (min-width: 100px) {
+  .title {
+    font-size: 4rem;
+  }
+
+  .subtitle{
+    font-size: 2rem;
+    margin: .5em;
+    margin-bottom: 1em;
+  }
 }
