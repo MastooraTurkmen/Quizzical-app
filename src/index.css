@@ -68,6 +68,11 @@ button:focus {
   font-weight: bold;
 }
 
+.start-btn:hover,
+.start-btn:focus{
+  background-color: #293264;
+}
+
 /* QUIZ PAGE */
 
 .quiz-page {
