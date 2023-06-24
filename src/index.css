@@ -65,6 +65,7 @@ button:focus {
   color: #F5F7FB;
   font-family: 'Inter', sans-serif;
   margin-top: 10px;
+  font-weight: bold;
 }
 
 /* QUIZ PAGE */
@@ -164,5 +165,9 @@ button:focus {
     font-size: 2rem;
     margin: .5em;
     margin-bottom: 1em;
+  }
+
+  .start-btn{
+    font-size: 1.5em;
   }
 }
