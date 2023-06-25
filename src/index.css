@@ -95,7 +95,9 @@ button:focus {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
+  margin: .5em 0;
 }
+
 
 .answer-btn {
   border-radius: 8px;
@@ -195,6 +197,5 @@ button:focus {
   .question{
     font-size: 1.5em;
   }
-
 
 }
