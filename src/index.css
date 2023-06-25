@@ -69,7 +69,9 @@ button:focus {
 }
 
 .start-btn:hover,
-.start-btn:focus{
+.start-btn:focus,
+.check-btn:hover,
+.check-btn:focus{
   background-color: #293264;
 }
 
@@ -172,7 +174,8 @@ button:focus {
     margin-bottom: 1em;
   }
 
-  .start-btn{
+  .start-btn, 
+  .check-btn{
     font-size: 1.5em;
     padding: .5em 2em;
   }
