@@ -188,5 +188,13 @@ button:focus {
 
   .question-container{
     margin-bottom: 1em;
+    font-size: 1em;
+    margin-top: 0;
   }
+
+  .question{
+    font-size: 1.5em;
+  }
+
+
 }
