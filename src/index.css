@@ -164,6 +164,12 @@ button:focus {
 
 
 @media (min-width: 1000px) {
+
+  body{
+    height: 100vh;
+    margin: 0;
+  }
+
   .title {
     font-size: 4rem;
   }
@@ -180,5 +186,7 @@ button:focus {
     padding: .5em 2em;
   }
 
-
+  .question-container{
+    margin-bottom: 1em;
+  }
 }
