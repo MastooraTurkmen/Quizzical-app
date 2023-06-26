@@ -1,3 +1,17 @@
+# Quizzical App
+
+Quizzical is a simple quiz app that lets you select alternatives and then gives you a score. 
+It's built with functional React components. There are lots of questions from every subject with lots of amazing answers. 
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
