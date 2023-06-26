@@ -9,19 +9,25 @@ It's built with functional React components. There are lots of questions from ev
 write in your terminal
 
 ```
-npm install
-npm run dev
-
+$ npm install
+$ npm run dev
 ```
 
 ```
-pnpm install
-pnpm run dev
-
+$ pnpm install
+$ pnpm run dev
 ```
 
 
+## For cloning the project 🪛
 
+```
+# Clone this repository
+$ gh repo clone MastooraTurkmen/Quizzical-app
+
+# Go inside the repository
+$ cd quizzical-app
+```
 
 
 # React + Vite
