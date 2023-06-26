@@ -200,4 +200,8 @@ button:focus {
     font-size: 1.5em;
   }
 
+  .blob-yellow{
+    min-width: 300px;
+  }
+
 }
