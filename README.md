@@ -5,8 +5,8 @@ It's built with functional React components. There are lots of questions from ev
 
 
 
-## Before you Began 🛠 🔨
-write in your terminal
+## Before you Begin 🛠 🔨
+Write following command in your terminal
 
 ```
 $ npm install
