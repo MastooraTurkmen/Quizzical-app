@@ -118,6 +118,7 @@ button:focus {
 
 .check-answers {
   text-align: center;
+  margin: 2em;
 }
 
 .check-btn,
