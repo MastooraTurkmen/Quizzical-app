@@ -13,7 +13,8 @@ It's built with functional React components. There are lots of questions from ev
 
 ![Alt text](image-1.png)
 
-
++ #### The 2/5 answers were correct
+  ![Alt text](image-2.png)
 
 
 ## Before you Begin 🛠 🔨
