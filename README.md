@@ -4,6 +4,15 @@ Quizzical is a simple quiz app that lets you select alternatives and then gives 
 It's built with functional React components. There are lots of questions from every subject with lots of amazing answers. 
 
 
+### Start from **_Start quiz_** and test your knowledge! ✒️
+
+![Alt text](image.png)
+
+
+
+
+
+
 
 ## Before you Begin 🛠 🔨
 Write following command in your terminal
