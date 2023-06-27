@@ -6,15 +6,15 @@ It's built with functional React components. There are lots of questions from ev
 
 ### Start from **_Start quiz_** and test your knowledge! ✒️
 
-![Alt text](image.png)
+![Alt text](./src/assets/image.png)
 
 
 ### What would be the answers? 📝
 
-![Alt text](image-1.png)
+![Alt text](./src/assets/image-1.png)
 
 + #### The 2/5 answers were correct
-  ![Alt text](image-2.png)
+  ![Alt text](./src/assets/image-2.png)
 
 
 ## Before you Begin 🛠 🔨
@@ -51,8 +51,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+------
 
 
 
 ## Author 👩🏻‍💻 
-+ **Mastoora Turkmen**  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/mastoora-turkmen/">
++ **Mastoora Turkmen**  https://www.linkedin.com/in/mastoora-turkmen/  https://github.com/MastooraTurkmen/ https://twitter.com/MastooraJ22 
