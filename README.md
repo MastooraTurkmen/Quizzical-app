@@ -55,4 +55,4 @@ Currently, two official plugins are available:
 
 
 ## Author 👩🏻‍💻 
-+ **Mastoora Turkmen**  
++ **Mastoora Turkmen**  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/mastoora-turkmen/">
