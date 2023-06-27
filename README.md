@@ -9,7 +9,9 @@ It's built with functional React components. There are lots of questions from ev
 ![Alt text](image.png)
 
 
+### What would be the answers? 📝
 
+![Alt text](image-1.png)
 
 
 
