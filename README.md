@@ -3,6 +3,8 @@
 Quizzical is a simple quiz app that lets you select alternatives and then gives you a score. 
 It's built with functional React components. There are lots of questions from every subject with lots of amazing answers. 
 
+> https://my-quizzical-site.netlify.app/
+
 
 ### Start from **_Start quiz_** button and test your knowledge! ✒️
 
