@@ -65,6 +65,7 @@
     color: #F5F7FB;
     font-family: 'Inter', sans-serif;
     margin-top: 10px;
+    transition: all 1s ease-in-out;
   }
   
   /* QUIZ PAGE */
